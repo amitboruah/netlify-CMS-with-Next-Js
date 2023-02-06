@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+  repo: amitboruah/netlify-CMS-with-Next-Js
 media_folder: public/img
 public_folder: img
 collections:
