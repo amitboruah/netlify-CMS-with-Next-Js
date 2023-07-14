@@ -12,6 +12,6 @@ cats:
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ---
-Welcome to my awesome page about Dog of the internet.
+**Welcome to my awesome page about Dog of the internet.**
 
 This page is built with NextJS, and content is managed in Netlify CMS
